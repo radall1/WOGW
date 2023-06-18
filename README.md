@@ -4,7 +4,7 @@
 
 ## Purpose
 
-The goal was to display interactive visualizations for St. Olaf students to gain insight into how Oles students have creatively integrated study abroad/away programs with their majors and concentrations over the span of a decade, allowing them to observe different study abroad trends. You can access the website [here](https://rconnect.stolaf.edu/content/6060fb35-1101-40c2-b70e-b16d37caec0f/).
+The goal was to display interactive visualizations for St. Olaf students to gain insight into how Oles have creatively integrated study abroad/away programs with their majors and concentrations over the span of a decade, allowing them to observe different study abroad trends. You can access the website [here](https://rconnect.stolaf.edu/content/6060fb35-1101-40c2-b70e-b16d37caec0f/).
 
 ## Contents of repository 
 
