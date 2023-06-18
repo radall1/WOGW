@@ -1,0 +1,8 @@
+---
+title: "Untitled"
+output: html_document
+---
+ 
+ 
+
+<span style="color: black;">  <font size="4">The following map illustrates the destinations that St. Olaf students have gone to between the academic years 2013-2014 and 2022-2023. To see the name of the program, click on the dot. The size of the dot is determined by the number of students who have been to that program. Please note that the map is interactive, feel free to zoom in to see smaller dots that might be shadowed by larger dots. </font> </span>

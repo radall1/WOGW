@@ -1,0 +1,8 @@
+---
+title: "Untitled"
+output: html_document
+---
+ 
+ 
+
+<span style="color: black;">  <font size="4">The plot exhibits the most famous study abroad programs by major/concentration, with the total number of students that went to each program since 2013 at the end of each bar. For example, if you choose Economics, you can see that DIS Copenhagen has the highest participation rate among Economics students, with 44 students in total. Economics include Quantitative Economics and Economics majors. </font> </span>

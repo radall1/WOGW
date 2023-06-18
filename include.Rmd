@@ -1,0 +1,28 @@
+---
+title: "Untitled"
+output: html_document
+---
+ 
+ 
+
+
+
+<span style="color: black;">  <font size="5"> Background Information </font> </span>
+
+<span style="color: black;">  <font size="4">St. Olaf College ranked as #1 baccalaureate institution for the total number of students studying abroad for 12 consecutive years since 2007. Each year, more than 800 St. Olaf students study off-campus through programs facilitated by the College’s off-campus studies center: Smith Center for Global Engagement. </font> </span>
+
+<span style="color: black;">  <font size="4">Our goal behind WOGW is to create interactive visualizations for current and future Oles to gain insight into how past and current students have creatively integrated study abroad/away programs with their majors and concentrations. WOGW also allows students to observe general study abroad trends pertaining to academics and finances likewise. </font> </span>
+
+ <span style="color: black;">  <font size="5"> Disclaimer </font> </span>
+
+<span style="color: black;">   <font size="4">Our data source included all semester/year participants from academic year 2013-2014 to academic year 2022-2023. Our data source doesn’t include Interim study abroad participants and therefore, any users of WOGW should take that into consideration. </font> </span>
+
+<span style="color: black;"> <font size="5"> Authors </font> </span>
+
+<span style="color: black;">   <font size="4">WOGW was made by Mohamed Radalla ‘25 and Irina Khachatryan ‘23. Irina is majoring in Quantitative Economics. Mohamed is majoring in Computer Science. Both of them are concentrating in Statistics and Data Science. </font> </span>
+
+<span style="color: black;">  <font size="5">  Acknowledgments </font> </span>
+
+<span style="color: black;">   <font size="4">We would like to express our sincere gratitude to the staff of the Smith Center for Global Engagement for graciously providing us with multiple datasets that constituted the cornerstone of our project. We would like to thank Professor Roback for his guidance and support throughout the duration of the project. Your contributions have not gone unnoticed and are greatly appreciated. </font> </span>
+
+</span>

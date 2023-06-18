@@ -1,0 +1,8 @@
+---
+title: "Untitled"
+output: html_document
+---
+ 
+ 
+
+<span style="color: black;">  <font size="4">The plot exhibits the average estimated program and pocket costs (these are the above tuition costs), and the total additional cost of the programs as compared to staying on campus in various geographical regions. These are only semester long, or semester + Interim programs costs distributions. For example, you can see that the cost comparison for Australia is 6,000 USD, meaning that students planning to study abroad in Australia for a semester will need to allocate an additional 6,000 USD for their education for the entire academic year.  </font> </span>

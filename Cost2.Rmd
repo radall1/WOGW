@@ -1,0 +1,8 @@
+---
+title: "Untitled"
+output: html_document
+---
+ 
+ 
+
+<span style="color: black;">  <font size="4">The boxplots exhibit the cost distributions by program and pocket costs (these are the above tuition costs), and the total additional cost of the programs as compared to staying on campus in various geographical regions. These are the individual study abroad program costs, where you can see the general costs trends and statistics per region. For example, you can see that for Australia, there is a large outlier, where the cost comparison reaches to 12,000 USD. </font> </span>

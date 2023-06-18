@@ -1,0 +1,8 @@
+---
+title: "Untitled"
+output: html_document
+---
+ 
+ 
+
+<span style="color: black;">  <font size="4">The plot exhibits participation rate by major/concentration for each study abroad program, with the total number of students that went to each program since 2013 at the end of each bar. For example, if you choose American University in Cairo, you can see that it was a famous program among Political Science, Middle Easter Studies, International Relation and History majors. </font> </span>

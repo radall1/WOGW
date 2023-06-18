@@ -1,0 +1,8 @@
+---
+title: "Untitled"
+output: html_document
+---
+ 
+ 
+
+<span style="color: black;">  <font size="4">St. Olaf departments are divided into five faculties: Fine Arts, Humanities, Interdisciplinary and General Studies, Natural Sciences and Mathematics and Social Sciences. The following treemap allows you to observe the percentage of students in a particular major or concentration (or more generally, in a particular Faculty) that participated in a study abroad program. Therefore, the percentages do not add up to 100%. For example, 41% of Political Science majors studied abroad during their time at St. Olaf. </font> </span>

@@ -1,0 +1,8 @@
+---
+title: "Untitled"
+output: html_document
+---
+ 
+ 
+
+<span style="color: black;">  <font size="4">The following treemap allows you to observe the percentage of students in a particular major or concentration (or more generally, in a particular Faculty) with study abroad experience that participated in a study abroad program that does not offer a program in their field of study. For example, 30% of the Biology majors with study abroad experience studied abroad at places that don't offer a Biology program. The goal is to emphasize how St. Olaf students utilized study abroad programs in the light of their wide range of interests. </font> </span>
